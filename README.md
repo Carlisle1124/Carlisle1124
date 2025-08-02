@@ -23,9 +23,7 @@
 
 ---
 
-## 📈 GitHub Stats
-![Francis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlisle1124&show_icons=true&theme=tokyonight)
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 ---
 
 ## 📫 Let's Connect
