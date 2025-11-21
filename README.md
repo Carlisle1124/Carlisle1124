@@ -49,7 +49,7 @@
 ## Let's Connect
 
 - **Email:** francisgohan@gmail.com  
-- **LinkedIn:** [Coming Soon]  
+- **LinkedIn:** (https://www.linkedin.com/in/francis-gohan-ragasa-3b945b190/) 
 - **Portfolio:** [In Progress]  
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
