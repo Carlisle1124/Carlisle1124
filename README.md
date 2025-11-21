@@ -1,8 +1,6 @@
 # Hi there, I'm Francis!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D6D&width=1000&lines=🎓+I'm+a+4th-year+BSIT+student+at+the+University+of+Santo+Tomas;🤖+Major+in+Automation)](https://github.com/francisragasa)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D6D&width=1000&lines=🎓+I'm+a+4th-year+BSIT+student+at+the+University+of+Santo+Tomas;🤖+Aspiring+Software/+AI+Engineer)](https://github.com/francisragasa)
 
 ## 🔭 Current & Past Projects
 
