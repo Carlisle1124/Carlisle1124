@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D6D&width=1000&lines=🎓+I'm+a+4th-year+BSIT+student+at+the+University+of+Santo+Tomas;🤖+Aspiring+Software/+AI+Engineer)](https://github.com/francisragasa)
 
-## 🔭 Current & Past Projects
+## Current & Past Projects
 
 ### **AutoHydro** – Solar-Powered NFT Hydroponic System | Lead Full-Stack Developer
 - Developed an AI-powered plant disease detection model achieving **98.9% accuracy**, integrated into a real-time, fully automated, and secure web monitoring dashboard used by **10+ parish staff**.  
@@ -25,7 +25,7 @@
   <br>
 
 
-## 🧰 Tech Stack
+## Tech Stack
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34B7F1&width=600&lines=Languages+%26+Tools+I+Use+🛠️)](https://github.com/francisragasa)
 
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
 </p>
 
-## 📫 Let's Connect
+## Let's Connect
 
 - **Email:** francisgohan@gmail.com  
 - **LinkedIn:** [Coming Soon]  
